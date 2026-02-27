@@ -1,0 +1,19 @@
+{
+  "name": "SimpleMath",
+  "version": "1.0.0",
+  "description": "A simple addition and subtraction math library",
+  "keywords": "math, add, subtract,simplemath",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Embedded-Petal/SimpleMath.git"
+  },
+  "authors": [
+    {
+      "name": "Karthickraja M",
+      "email": "karthickraja.thepetal@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
